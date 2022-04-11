@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jgaelle@yahoo.fr
+	name = gaelle jopwou
